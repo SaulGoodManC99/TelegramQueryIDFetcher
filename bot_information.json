@@ -11,6 +11,10 @@
         {
             "username": "DejenDogBot",
             "url": "https://djdog.io"
+        },
+        {
+            "username": "pocketfi_bot",
+            "url": "https://pocketfi.app"
         }
     ]
 }
