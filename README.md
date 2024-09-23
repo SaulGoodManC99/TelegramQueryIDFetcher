@@ -57,5 +57,6 @@ TelegramQueryIDFetcher 是一个强大且易于使用的工具，用于从 Teleg
     - **创建会话**：输入你的电话号码和会话名称。
     - **使用已有会话**：可以从其他脚本sessions文件夹中复制到脚本sesssions文件夹中使用
     - **选择要获取query_id的机器人**：选择一个机器人并批量获取query_ie
+
 3.自动保存query_id:
     自动保存所有query_id到机器人相对应的用户名_token.txt中
