@@ -1,0 +1,4 @@
+asyncio
+pyrogram
+urllib3
+loguru

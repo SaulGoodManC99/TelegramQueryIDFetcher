@@ -1,0 +1,16 @@
+{
+    "bots": [
+        {
+            "username": "hamster_kombat_bot",
+            "url": "https://hamsterkombatgame.io"
+        },
+        {
+            "username": "BlumCryptoBot",
+            "url": "https://telegram.blum.codes"
+        },
+        {
+            "username": "DejenDogBot",
+            "url": "https://djdog.io"
+        }
+    ]
+}
