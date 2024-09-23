@@ -57,4 +57,5 @@ TelegramQueryIDFetcher 是一个强大且易于使用的工具，用于从 Teleg
     - **选择要获取 query_id 的机器人**：选择一个机器人并批量获取 query_id。
 
 3. 自动保存 query_id：
+
     自动保存所有 query_id 到机器人相对应的用户名_token.txt 中。
