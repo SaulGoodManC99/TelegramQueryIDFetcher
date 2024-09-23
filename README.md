@@ -39,9 +39,10 @@ TelegramQueryIDFetcher 是一个强大且易于使用的工具，用于从 Teleg
 
 ## ⚙️ 配置
 
+
 1. 获取 `API_ID` 和 `API_HASH`，可以从 [my.telegram.org](https://my.telegram.org) 获取
 2. 或者从我的 Telegram 群组回复 API，有公共 API 可用
-
+3. 编辑auto_get_token.py，填写API_ID和API_HASH
 ## 🚀 使用
 
 1. 运行脚本：
