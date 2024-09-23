@@ -22,7 +22,6 @@ TelegramQueryIDFetcher 是一个强大且易于使用的工具，用于从 Teleg
 
 - Python 3.7+
 
-
 ## 📦 安装
 
 1. 克隆仓库：
@@ -41,8 +40,7 @@ TelegramQueryIDFetcher 是一个强大且易于使用的工具，用于从 Teleg
 ## ⚙️ 配置
 
 1. 获取 `API_ID` 和 `API_HASH`，可以从 [my.telegram.org](https://my.telegram.org) 获取。
-2. 或者从我的Telegram群组回复api，有公共api可用
-
+2. 或者从我的 Telegram 群组回复 API，有公共 API 可用。
 
 ## 🚀 使用
 
@@ -55,8 +53,8 @@ TelegramQueryIDFetcher 是一个强大且易于使用的工具，用于从 Teleg
 2. 选择相应的操作：
 
     - **创建会话**：输入你的电话号码和会话名称。
-    - **使用已有会话**：可以从其他脚本sessions文件夹中复制到脚本sesssions文件夹中使用
-    - **选择要获取query_id的机器人**：选择一个机器人并批量获取query_ie
+    - **使用已有会话**：可以从其他脚本 sessions 文件夹中复制到脚本 sessions 文件夹中使用。
+    - **选择要获取 query_id 的机器人**：选择一个机器人并批量获取 query_id。
 
-3.自动保存query_id:
-    自动保存所有query_id到机器人相对应的用户名_token.txt中
+3. 自动保存 query_id：
+    自动保存所有 query_id 到机器人相对应的用户名_token.txt 中。
