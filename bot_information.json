@@ -15,6 +15,10 @@
         {
             "username": "pocketfi_bot",
             "url": "https://pocketfi.app"
+        },
+        {
+            "username": "starmajorbot",
+            "url": "https://major.bot"
         }
     ]
 }
