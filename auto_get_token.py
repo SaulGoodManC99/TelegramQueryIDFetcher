@@ -22,6 +22,8 @@ SESSIONS_DIR = 'sessions/'  # 存储会话文件的目录
 BOT_INFO_FILE = 'bot_information.json'  # 存储机器人信息的文件
 DELAY = 5  # 每次请求之间的延迟（秒）
 
+if not os.path.exists(SESSIONS_DIR):
+    os.makedirs(SESSIONS_DIR)
 banner = """
 
   _________                .__           __   ___________                            .___                 
