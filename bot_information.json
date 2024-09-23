@@ -19,10 +19,13 @@
         {
             "username": "starmajorbot",
             "url": "https://major.bot"
+<<<<<<< HEAD
         },
         {
             "username": "DuckChain_bot",
             "url": "https://tgdapp.duckchain.io"
+=======
+>>>>>>> 4e35eff6d9c40b72663db39ac07007195621c0c4
         }
 
     ]
