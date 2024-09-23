@@ -2,3 +2,4 @@ asyncio
 pyrogram
 urllib3
 loguru
+python-dotenv

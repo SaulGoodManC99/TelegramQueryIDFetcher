@@ -15,16 +15,17 @@ from pyrogram.raw.functions.messages import RequestWebView
 
 from bot.utils.logger import logger
 from bot.exceptions import InvalidSession
+from dotenv import load_dotenv
 
-API_ID = ''  # 从 https://my.telegram.org 获取或者从群组获取，群组回复api自动回复
-API_HASH = ''  # # 从 https://my.telegram.org 获取或者从群组获取，群组回复api自动回复
+# Load environment variables from .env file
+load_dotenv()
+
+API_ID = os.getenv('API_ID')  # 从 .env 文件获取
+API_HASH = os.getenv('API_HASH')  # 从 .env 文件获取
 SESSIONS_DIR = 'sessions/'  # 存储会话文件的目录
 BOT_INFO_FILE = 'bot_information.json'  # 存储机器人信息的文件
 DELAY = 5  # 每次请求之间的延迟（秒）
 
-if not os.path.exists(SESSIONS_DIR):
-    os.makedirs(SESSIONS_DIR)
-    
 banner = """
 
   _________                .__           __   ___________                            .___                 
@@ -105,6 +106,10 @@ async def process_session(session_file: str, bot_usernames: List[str], web_bot_u
 
 
 async def main():
+    # Ensure the sessions directory exists
+    if not os.path.exists(SESSIONS_DIR):
+        os.makedirs(SESSIONS_DIR)
+
     print(banner)
     print(options)
 
