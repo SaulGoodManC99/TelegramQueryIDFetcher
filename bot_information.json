@@ -17,13 +17,22 @@
             "url": "https://pocketfi.app"
         },
         {
-            "username": "starmajorbot",
+            "username": "major",
             "url": "https://major.bot"
         },
         {
             "username": "DuckChain_bot",
             "url": "https://tgdapp.duckchain.io"
+        },
+        {
+            "username": "tabizoobot",
+            "url": "https://miniapp.tabibot.com"
+        },
+        {
+            "username": "Binance_Moonbix_bot",
+            "url": "https://www.binance.com"
         }
+
 
     ]
 }
