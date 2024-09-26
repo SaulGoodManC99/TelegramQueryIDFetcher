@@ -35,6 +35,7 @@ TelegramQueryIDFetcher 是一个强大且易于使用的工具，用于从 Teleg
 
     ```bash
     pip install -r requirements.txt
+    copy .env-example .env
     ```
 
 ## ⚙️ 配置
