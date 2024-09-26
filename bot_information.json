@@ -31,6 +31,14 @@
         {
             "username": "Binance_Moonbix_bot",
             "url": "https://www.binance.com"
+        },
+        {
+            "username": "memefi_coin_bot",
+            "url": "https://tg-app.memefi.club"
+        },
+        {
+            "username": "Tomarket_ai_bot",
+            "url": "https://mini-app.tomarket.ai"
         }
     ]
 }
