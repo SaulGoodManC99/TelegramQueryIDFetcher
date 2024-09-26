@@ -6,8 +6,8 @@
 
 TelegramQueryIDFetcher 是一个强大且易于使用的工具，用于从 Telegram 机器人中获取 `query_id`。该项目使用 Pyrogram 库与 Telegram API 进行交互，并通过 WebView 请求获取所需的数据
 
-[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-red?logo=telegram&logoColor=white)](https://t.me/Scripter6)
-[![Telegram Group](https://img.shields.io/badge/Telegram-Group-red?logo=telegram&logoColor=white)](https://t.me/HamsterKey6)
+[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-red?logo=telegram&logoColor=white)](https://t.me/ScriptFreedom)
+[![Telegram Group](https://img.shields.io/badge/Telegram-Group-red?logo=telegram&logoColor=white)](https://t.me/ScriptFreedomGroup)
 
 ## 🌟 特性
 
