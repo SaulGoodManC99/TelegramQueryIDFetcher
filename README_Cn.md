@@ -9,7 +9,7 @@ TelegramQueryIDFetcher 是一个强大且易用的工具，用于从 Telegram �
 [![Telegram 频道](https://img.shields.io/badge/Telegram-频道-red?logo=telegram&logoColor=white)](https://t.me/ScriptFreedom)
 [![Telegram 群组](https://img.shields.io/badge/Telegram-群组-red?logo=telegram&logoColor=white)](https://t.me/ScriptFreedomGroup)
 
-[English](README.md) | [中文](#中文) | [Русский](README_RU.md)
+[English](README.md) | [中文](#中文) | [Русский](README_Ru.md)
 
 ## 🌟 特性
 
