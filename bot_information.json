@@ -39,6 +39,18 @@
         {
             "username": "Tomarket_ai_bot",
             "url": "https://mini-app.tomarket.ai"
+        },
+        {
+            "username": "Binance_Moonbix_bot",
+            "url": "https://www.binance.com"
+        },
+        {
+            "username": "notpixel",
+            "url": "https://app.notpx.app"
+        },
+        {
+            "username": "claytoncoinbot",
+            "url": "https://tonclayton.fun"
         }
     ]
 }
