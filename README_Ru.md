@@ -9,7 +9,7 @@ TelegramQueryIDFetcher - это мощный и простой в использ
 [![Telegram Канал](https://img.shields.io/badge/Telegram-Канал-red?logo=telegram&logoColor=white)](https://t.me/ScriptFreedom)
 [![Telegram Группа](https://img.shields.io/badge/Telegram-Группа-red?logo=telegram&logoColor=white)](https://t.me/ScriptFreedomGroup)
 
-[English](README.md) | [中文](README_CN.md) | [Русский](#русский)
+[English](README.md) | [中文](README_Cn.md) | [Русский](#русский)
 
 ## 🌟 Особенности
 
