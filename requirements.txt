@@ -1,5 +1,7 @@
-asyncio
 pyrogram
-urllib3
-loguru
+tgcrypto
 python-dotenv
+halo
+colorama
+requests
+aiohttp
