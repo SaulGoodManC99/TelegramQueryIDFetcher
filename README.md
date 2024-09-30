@@ -9,7 +9,7 @@ TelegramQueryIDFetcher is a powerful and easy-to-use tool for retrieving `query_
 [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-red?logo=telegram&logoColor=white)](https://t.me/ScriptFreedom)
 [![Telegram Group](https://img.shields.io/badge/Telegram-Group-red?logo=telegram&logoColor=white)](https://t.me/ScriptFreedomGroup)
 
-[English](#english) | [中文](README_CN.md) | [Русский](README_RU.md)
+[English](#english) | [中文](README_Cn.md) | [Русский](README_Ru.md)
 
 ## 🌟 Features
 
