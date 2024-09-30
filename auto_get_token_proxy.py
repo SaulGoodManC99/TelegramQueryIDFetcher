@@ -33,7 +33,6 @@ SESSIONS_DIR = 'sessions/'
 BOT_INFO_FILE = 'bot_information.json'
 DELAY = 5
 PROXY_FILE = 'proxy.txt'
-NOT_WORK_PROXY_FILE = 'not_work_proxy.txt'
 
 banner = """
 
