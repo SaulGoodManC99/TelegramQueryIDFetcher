@@ -51,6 +51,10 @@
         {
             "username": "claytoncoinbot",
             "url": "https://tonclayton.fun"
+        },
+        {
+            "username": "VooiAppBot",
+            "url": "https://app.tg.vooi.io"
         }
     ]
 }
