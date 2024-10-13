@@ -55,6 +55,10 @@
         {
             "username": "VooiAppBot",
             "url": "https://app.tg.vooi.io"
+        },
+        {
+            "username": "birdx2_bot",
+            "url": "https://birdx.birds.dog"
         }
     ]
 }
