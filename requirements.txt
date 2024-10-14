@@ -5,3 +5,4 @@ halo
 colorama
 requests
 aiohttp
+loguru
